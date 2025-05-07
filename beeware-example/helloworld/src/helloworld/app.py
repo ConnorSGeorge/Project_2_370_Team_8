@@ -39,4 +39,4 @@ class HelloWorld(toga.App):
 
 
 def main():
-    return HelloWorld()
+    return HelloWorld(formal_name="Hello World", app_id="com.example.helloworld")

@@ -21,6 +21,7 @@ test_sources = [
 ]
 
 requires = [
+    "toga-winforms~=0.4.7",
 ]
 test_requires = [
     "pytest",
